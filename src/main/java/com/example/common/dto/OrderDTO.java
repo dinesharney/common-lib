@@ -10,6 +10,7 @@ public class OrderDTO {
     private Long id;
     private String product;
     private Double price;
+    private String detail;
 
     // Getters and setters
 }
